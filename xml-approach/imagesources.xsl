@@ -20,12 +20,12 @@ div.title:before { content: counter(images) ". "; counter-increment: images; }
 <table>
 <thead>
 <tr>
-<td>File name</td>
-<td>Description</td>
-<td>Date</td>
-<td>Source</td>
-<td>Author</td>
-<td>Licence</td>
+<th>File name</th>
+<th>Description</th>
+<th>Date</th>
+<th>Source</th>
+<th>Author</th>
+<th>Licence</th>
 </tr>
 </thead>
 <tbody>
